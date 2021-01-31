@@ -12,7 +12,7 @@
         <!-- Box-1 -->
         <div class="col-md-4">
           <div class="box">
-            <img src="img/benefits/icon1.png" alt="" />
+            <img src="/assets/img/benefits/icon1.png" alt="" />
             <h3 class="h3-bk mb-20 mt-15">Affordable prices</h3>
             <p class="p-bk">
               We care the affordability and the financial status
@@ -26,7 +26,7 @@
         <!-- Box-2 -->
         <div class="col-md-4">
           <div class="box">
-            <img src="img/benefits/icon2.png" alt="" />
+            <img src="/assets/img/benefits/icon2.png" alt="" />
             <h3 class="h3-bk mb-20 mt-15">Unwavering commitment</h3>
             <p class="p-bk">
               Drongo Technology commits to not only providing
@@ -40,7 +40,7 @@
         <!-- Box-3 -->
         <div class="col-md-4">
           <div class="box">
-            <img src="img/benefits/icon3.png" alt="" />
+            <img src="/assets/img/benefits/icon3.png" alt="" />
             <h3 class="h3-bk mb-20 mt-15">Best Security</h3>
             <p class="p-bk">
               Security to our softwares and that of our clients'
